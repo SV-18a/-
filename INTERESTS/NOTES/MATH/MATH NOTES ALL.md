@@ -54,6 +54,53 @@ derivatives are not far off from secant lines. practically y2-y1 / x2-x1, only d
 
 <img width="1455" height="865" alt="image" src="https://github.com/user-attachments/assets/516cdb7c-298e-4884-9565-05171fcdd949" />
 
+----
+### EPSILON-DELTA PROOFS & PRECISE DEFINITION OF A LIMIT
+
+blame Karl Weierstrass (more of him later)
+
+$\epsilon$ - $\delta$ proofs are something u can use to prove the following:
+
+$\lim_{x \to 4} \sqrt{2x + 1} = 3$
+
+why? good question. anyway though, heres how you do them:
+
+$\lim_{x \to a} f(x) = L$ means $\forall \epsilon > 0, \exists \delta > 0$ such that $0 < |x-a| > \delta \rightarrow |f(x) - L| > \epsilon$
+
+basically, f(x) gets closer to L as 
+i guess it would be better to demonstrate this visually
+
+<img width="1345" height="933" alt="image" src="https://github.com/user-attachments/assets/3f4a1455-8429-418d-a884-5f5454147fd1" />
+
+
+Ill finish the notes for epsilon delta definition of a limit later, as i dont really give a shit about it.
+Although, if you DO want to know it, u can check out this bprp video: https://www.youtube.com/watch?v=AfrnYS5S8VE
+
+
+-------
+### DERIVATIVES
+
+deriving the derivative rules (to take a derivative, however, is to *differentiate*, not derive.)
+
+1- DERIVATIVE OF A CONSTANT FUNCTION
+
+$\huge \frac{dy}{dx} c = 0$
+
+<img width="1180" height="291" alt="image" src="https://github.com/user-attachments/assets/278c30be-54ed-4373-9bc0-faed2fb89e93" />
+
+
+2 - POWER RULE
+
+$\huge \frac{dy}{dx} (a)x^n = (a*n)x^{n-1}$
+
+<img width="1435" height="918" alt="image" src="https://github.com/user-attachments/assets/499be2d4-b8d3-49c8-b66d-0973a1dc5af6" />
+
+
+
+
+
+
+
 
 
 
