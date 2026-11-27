@@ -111,7 +111,7 @@ $\huge \frac{d}{dx} ln(x) = \frac{1}{x}$
 
 4 - $log_b(x)$
 
-$\huge \frac{d}{dx} ln(x) = \frac{1}{xlnb}$
+$\huge \frac{d}{dx} log_b(x) = \frac{1}{xlnb}$
 
 <img width="1347" height="375" alt="image" src="https://github.com/user-attachments/assets/a86114f0-bbc5-44e4-ab88-f9fa038830fc" /> <br><br>
 
@@ -175,6 +175,15 @@ $\huge \frac{d}{dx} csc(x) = -csc(x)cot(x)$
 
 
 <img width="1330" height="316" alt="image" src="https://github.com/user-attachments/assets/4de31edb-8956-4270-b804-c8cc75140ac2" /> <br><br>
+
+
+
+12 - $sin^{-1}(x)$ (inverse trigs are so fun to derive)
+
+$\huge \frac{d}{dx} sin^{-1}(x) = \frac{1}{\sqrt{1-x^2}}$
+
+
+<img width="1253" height="582" alt="image" src="https://github.com/user-attachments/assets/f77481cd-53f3-433e-8acd-d18be6519521" />
 
 
 
