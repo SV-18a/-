@@ -82,20 +82,46 @@ Although, if you DO want to know it, u can check out this bprp video: https://ww
 
 deriving the derivative rules (to take a derivative, however, is to *differentiate*, not derive.)
 
+
 1- DERIVATIVE OF A CONSTANT FUNCTION
 
-$\huge \frac{dy}{dx} c = 0$
+$\huge \frac{d}{dx} c = 0$
 
-<img width="1180" height="291" alt="image" src="https://github.com/user-attachments/assets/278c30be-54ed-4373-9bc0-faed2fb89e93" />
+<img width="1180" height="291" alt="image" src="https://github.com/user-attachments/assets/278c30be-54ed-4373-9bc0-faed2fb89e93" /> <br><br>
+
 
 
 2 - POWER RULE
 
-$\huge \frac{dy}{dx} (a)x^n = (a*n)x^{n-1}$
+$\huge \frac{d}{dx} (a)x^n = (a*n)x^{n-1}$
 
-<img width="1435" height="918" alt="image" src="https://github.com/user-attachments/assets/499be2d4-b8d3-49c8-b66d-0973a1dc5af6" />
+<img width="1435" height="918" alt="image" src="https://github.com/user-attachments/assets/499be2d4-b8d3-49c8-b66d-0973a1dc5af6" /> <br><br>
 
 
+
+3 - ln(x)
+
+$\huge \frac{d}{dx} ln(x) = \frac{1}{x}$
+
+<img width="1255" height="564" alt="image" src="https://github.com/user-attachments/assets/93a117c1-965c-42c8-83e4-b7a074eca555" /> <br><br>
+
+(chain rule will be covered in later derivations)
+
+
+
+4 - $log_b(x)$
+
+$\huge \frac{d}{dx} ln(x) = \frac{1}{xlnb}$
+
+<img width="1347" height="375" alt="image" src="https://github.com/user-attachments/assets/a86114f0-bbc5-44e4-ab88-f9fa038830fc" /> <br><br>
+
+
+
+5 - $b^x$
+
+$\huge \frac{d}{dx} b^x = b^x ln(x)$
+
+<img width="1392" height="415" alt="image" src="https://github.com/user-attachments/assets/e805a7c9-3ea6-48b0-b3ff-de1f78b4e0b2" /> <br><br>
 
 
 
