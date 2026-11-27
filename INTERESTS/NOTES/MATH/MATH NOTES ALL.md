@@ -125,6 +125,65 @@ $\huge \frac{d}{dx} b^x = b^x ln(x)$
 
 
 
+6 - sin(x)
+
+$\huge \frac{d}{dx} sin(x) = cos(x)$
+
+<img width="1512" height="705" alt="image" src="https://github.com/user-attachments/assets/8e6c89ba-21a9-43e3-82ed-3a4fd722715e" /> <br><br>
+
+
+
+
+7 - cos(x) (from proof of sin(x))
+
+$\huge \frac{d}{dx} cos(x) = -sin(x)$
+
+<img width="1364" height="480" alt="image" src="https://github.com/user-attachments/assets/7c544cc5-c3a1-44a6-b247-d67841366f15" /> <br><br>
+
+
+
+8 - tan(x) (from proof of sin(x) and cos(x)... im getting lazy, i know.)
+
+$\huge \frac{d}{dx} tan(x) = sec^2(x)$
+
+<img width="1524" height="460" alt="image" src="https://github.com/user-attachments/assets/7dfc14f3-866d-402d-8c4b-5ad57cacd7fc" /> <br><br>
+
+
+
+9 - cot(x) 
+
+$\huge \frac{d}{dx} cot(x) = -csc^2(x)$
+
+<img width="1361" height="521" alt="image" src="https://github.com/user-attachments/assets/b2ca6c8b-eed7-434d-8a68-a25cba6973b1" /> <br><br>
+
+
+
+
+10 - sec(x)
+
+$\huge \frac{d}{dx} sec(x) = sec(x)tan(x)$
+
+
+<img width="1355" height="447" alt="image" src="https://github.com/user-attachments/assets/55fa307e-81a2-46dd-9bec-cf864bd607a7" /> <br><br>
+
+
+
+11 - csc(x)
+
+
+$\huge \frac{d}{dx} csc(x) = -csc(x)cot(x)$
+
+
+<img width="1330" height="316" alt="image" src="https://github.com/user-attachments/assets/4de31edb-8956-4270-b804-c8cc75140ac2" /> <br><br>
+
+
+
+
+
+
+
+
+
 
 
 
