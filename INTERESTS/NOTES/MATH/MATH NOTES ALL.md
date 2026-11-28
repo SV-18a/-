@@ -187,6 +187,38 @@ $\huge \frac{d}{dx} sin^{-1}(x) = \frac{1}{\sqrt{1-x^2}}$
 
 
 
+12 - $cos^{-1}(x)$ (COFUNCITON ON SIN, WONT PROVE IT)
+
+$\huge \frac{d}{dx} cos^{-1}(x) = -\frac{1}{\sqrt{1-x^2}}$
+
+
+
+13 - $tan^{-1}(x)$
+
+$\huge \frac{d}{dx} tan^{-1}(x) = \frac{1}{1+x^2}$
+
+
+credit to bprp
+
+<img width="674" height="728" alt="image" src="https://github.com/user-attachments/assets/52ce46d5-d99f-45d2-9a50-e0a93826b0ae" />
+
+14 - $cot^{-1}(x)$
+
+$\huge \frac{d}{dx} cot^{-1}(x) = \frac{-1}{1+x^2}$
+
+
+15 - $sec^{-1}(x)$
+
+$\huge \frac{d}{dx} sec^{-1}(x) = \frac{1}{x\sqrt{x^2-1}}$
+
+
+16 - $csc^{-1}(x)$
+
+$\huge \frac{d}{dx} sec^{-1}(x) = \frac{1}{x\sqrt{x^2-1}}$
+
+
+
+
 
 
 
